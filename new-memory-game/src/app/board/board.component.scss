@@ -1,0 +1,17 @@
+div.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: 0 auto;
+
+  div {
+    width: calc(100% * (1 / 4));
+    text-align: center;
+
+    img {
+      height: 100px;
+      width: 100px;
+    }
+  }
+
+}
