@@ -1,96 +1,97 @@
+// todo - chaeck if we need this shit
 export const Cells = [
     {
-        imageUrl: '../assets/images/apple.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 0
     },
     {
-        imageUrl: '../assets/images/back.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 1
     },
     {
-        imageUrl: '../assets/images/bird.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 2
     },
     {
-        imageUrl: '../assets/images/body.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 3
     },
     {
-        imageUrl: '../assets/images/burger.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 4
     },
     {
-        imageUrl: '../assets/images/diamond.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 5
     },
     {
-        imageUrl: '../assets/images/eye.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 6
     },
     {
-        imageUrl: '../assets/images/flower.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 7
     },
     {
-        imageUrl: '../assets/images/girl.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 8
     },
     {
-        imageUrl: '../assets/images/hand.png',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 9
     },
     {
-        imageUrl: '../assets/images/heart.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 10
     },
     {
-        imageUrl: '../assets/images/lion.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 11
     },
     {
-        imageUrl: '../assets/images/mouth.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 12
     },
     {
-        imageUrl: '../assets/images/pinguin.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 13
     },
     {
-        imageUrl: '../assets/images/rabbit.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 14
     },
     {
-        imageUrl: '../assets/images/rose.jpg',
+        imageUrl: '',
         discovered: false,
         clickable: true,
         index: 15

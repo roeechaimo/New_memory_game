@@ -1,5 +1,7 @@
 <div class="container">
-    <div class="cell" *ngFor="let cell of cells">
-        <img [src]="cell.imageUrl">
+
+    <!--todo - style cells-->
+    <div class="cell" *ngFor="let cell of cells; let index = index">
+        <img *ngIf="cell?.imageUrl" [src]="cell?.imageUrl">
     </div>
 </div>
