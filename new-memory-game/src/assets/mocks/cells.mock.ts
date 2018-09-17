@@ -1,99 +1,99 @@
 // todo - chaeck if we need this shit
 export const Cells = [
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/apple.jpg',
         discovered: false,
         clickable: true,
-        index: 0
+        id: 0
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/back.jpg',
         discovered: false,
         clickable: true,
-        index: 1
+        id: 1
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/bird.jpg',
         discovered: false,
         clickable: true,
-        index: 2
+        id: 2
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/face.jpg',
         discovered: false,
         clickable: true,
-        index: 3
+        id: 3
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/hand.png',
         discovered: false,
         clickable: true,
-        index: 4
+        id: 4
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/eye.jpg',
         discovered: false,
         clickable: true,
-        index: 5
+        id: 5
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/girl.jpg',
         discovered: false,
         clickable: true,
-        index: 6
+        id: 6
     },
     {
-        imageUrl: '',
+        imageUrl: 'assets/images/mouth.jpg',
         discovered: false,
         clickable: true,
-        index: 7
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 8
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 9
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 10
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 11
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 12
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 13
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 14
-    },
-    {
-        imageUrl: '',
-        discovered: false,
-        clickable: true,
-        index: 15
+        id: 7
     }
+    // {
+    //     imageUrl: 'assets/images/body.jpg',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 8
+    // },
+    // {
+    //     imageUrl: 'assets/images/old-man.jpg',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 9
+    // },
+    // {
+    //     imageUrl: 'assets/images/lion.jpg',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 10
+    // },
+    // {
+    //     imageUrl: 'assets/images/pinguin.jpg',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 11
+    // },
+    // {
+    //     imageUrl: 'assets/images/flower.jpg',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 12
+    // },
+    // {
+    //     imageUrl: '',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 13
+    // },
+    // {
+    //     imageUrl: '',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 14
+    // },
+    // {
+    //     imageUrl: '',
+    //     discovered: false,
+    //     clickable: true,
+    //     id: 15
+    // }
 ];
